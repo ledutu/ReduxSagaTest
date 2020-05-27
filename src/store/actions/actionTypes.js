@@ -1,0 +1,8 @@
+export const INCREASE = 'INCREASE';
+export const DECREASE = 'DECREASE';
+
+export const ADD_MOVIE = 'ADD_MOVIE';
+export const FETCH_MOVIE = 'FETCH_MOVIE';
+
+export const FETCH_MOVIE_SUCCESSED = 'FETCH_MOVIE_SUCCESSED';
+export const FETCH_MOVIE_FAILED = 'FETCH_MOVIE_FAILED';
